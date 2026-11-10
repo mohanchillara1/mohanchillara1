@@ -32,6 +32,12 @@ I evaluated NVIDIA's GR00T N1.7 generalist robot policy under degraded training 
 
 A release gate for robot fleets. Each software update runs as a canary, gets a pass/fail verdict, and is promoted or rolled back automatically. I'm a co-founder.
 
+### Lattice
+
+[![latticecad.com](https://img.shields.io/badge/Site-latticecad.com-298DFF?style=flat)](https://latticecad.com)
+
+An AI CAD tool a friend and I built in summer 2026. You describe a part in plain English, it generates the CAD, and a separate deterministic check verifies the geometry (wall thickness, holes lining up, parts clearing each other) instead of trusting whatever the AI produced.
+
 ### Singularity Robotics
 
 ![FRC Team 10032](https://img.shields.io/badge/FRC-Team_10032-0066B3?style=flat) ![Onshape](https://img.shields.io/badge/Onshape-00A6E0?style=flat) ![WPILib](https://img.shields.io/badge/WPILib-AC2B37?style=flat) ![Java](https://img.shields.io/badge/Java-E76F00?style=flat&logo=openjdk&logoColor=white)
